@@ -7,7 +7,7 @@ A multifunctional command-line utility built with Node.js to simplify common dev
 Install globally using npm:
 
 ```bash
-npm install -g YOUR-PACKAGE-NAME
+npm install -g nodejs-cli-toolkit
 ```
 
 ## 🚀 Usage
@@ -15,7 +15,7 @@ npm install -g YOUR-PACKAGE-NAME
 After installation, run:
 
 ```bash
-YOUR-CLI-COMMAND
+nodejs-cli-toolkit
 ```
 
 ## ✨ Features
@@ -39,4 +39,4 @@ YOUR-CLI-COMMAND
 
 ## 📦 npm Package
 
-[View package on npm](https://www.npmjs.com/package/YOUR-PACKAGE-NAME)
+[View package on npm](https://www.npmjs.com/package/nodejs-cli-toolkit)
